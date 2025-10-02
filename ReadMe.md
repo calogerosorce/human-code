@@ -1,13 +1,13 @@
-/*Comprare qualcosa su Amazon*/
+# Comprare qualcosa su Amazon
 
 Il regalo perfetto
 Domani è il compleanno di Silvia e non le ho ancora comprato nulla! Mi piacerebbe sorprenderla, so che le piaceva tanto quella lampada da tavolo così particolare, però la consegna non è Prime e non arriverebbe mai in tempo! Potrei optare per una bella stilografica ma sicuramente sforo il budget, forse è meglio optare per un buon libro: un classico ma so che con lei vado sul sicuro!
 
 
-- Prendo il telefono
+## 1. Prendo il telefono
   - Lo sblocco
    
-- Apro amazon
+## 2. Apro amazon
   - Cerco la lampada
     - SE il budget me lo permette AND SE arriva in tempo, la compro
     - ALTRIMENTI cerco altro
@@ -19,6 +19,6 @@ Domani è il compleanno di Silvia e non le ho ancora comprato nulla! Mi piacereb
     - SE arriva in tempo AND SE il budget me lo permette, lo compro 
     - ALTRIMENTI SE entro 30 minuti non trovo nulla chiudo l'applicazione
 
-- Compro il Regalo
-    - Aggiungo al carrello
-    - Confermo l'ordine
+## 3. Compro il Regalo
+ - Aggiungo al carrello
+ - Confermo l'ordine

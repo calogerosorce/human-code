@@ -16,7 +16,8 @@ Domani è il compleanno di Silvia e non le ho ancora comprato nulla! Mi piacereb
     - ALTRIMENTI cerco altro
   - Vado sul sicuro
     - cerco un libro
-    - SE arriva in tempo AND SE il budget me lo permette, lo compro entro 30 minuti chiudo l'applicazione
+    - SE arriva in tempo AND SE il budget me lo permette, lo compro 
+    - ALTRIMENTI SE entro 30 minuti non trovo nulla chiudo l'applicazione
 
 - Compro il Regalo
     - Aggiungo al carrello
